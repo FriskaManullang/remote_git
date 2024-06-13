@@ -1,1 +1,2 @@
-# remote_git
+# repo_remotearaikaa
+latihan
